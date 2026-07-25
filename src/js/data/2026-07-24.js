@@ -51,35 +51,35 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Tsubasa Yagami",
-    img: "Tsubasa.png",
+    img: "tsubasa.png",
     opts: {
       games: ["urara"],
     }
   },
   {
     name: "Sei Mizumori",
-    img: "Sei.png",
+    img: "sei.png",
     opts: {
       games: ["urara"],
     }
   },
   {
     name: "Kanna Urabe",
-    img: "Kanna.png",
+    img: "kanna.png",
     opts: {
       games: ["urara"],
     }
   },
   {
     name: "Sawa Yagami",
-    img: "Sawa.png",
+    img: "sawa.png",
     opts: {
       games: ["urara"],
     }
   },
   {
     name: "Noeka Yui",
-    img: "Noeka.png",
+    img: "noeka.png",
     opts: {
       games: ["urara"],
     }
@@ -87,35 +87,35 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Suzune Ayashiro",
-    img: "Suzune.png",
+    img: "suzune.png",
     opts: {
       games: ["Homura"],
     }
   },
   {
     name: "Ran Himoto",
-    img: "Ran.png",
+    img: "ran.png",
     opts: {
       games: ["Homura"],
     }
   },
   {
     name: "Miori Ooura",
-    img: "Miori.png",
+    img: "miori.png",
     opts: {
       games: ["Homura"],
     }
   },
   {
     name: "Miyuri Ooura",
-    img: "Miyuri.png",
+    img: "miyuri.png",
     opts: {
       games: ["Homura"],
     }
   },
   {
     name: "Akina Shitou",
-    img: "Akina.png",
+    img: "akina.png",
     opts: {
       games: ["Homura"],
     }
@@ -123,35 +123,35 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Yukina Kose",
-    img: "Yukina.png",
+    img: "yukina.png",
     opts: {
       games: ["Sakura"],
     }
   },
   {
     name: "Akari Haruhana",
-    img: "Akari.png",
+    img: "akari.png",
     opts: {
       games: ["Sakura"],
     }
   },
   {
     name: "Otoha Himi",
-    img: "Otoha.png",
+    img: "otoha.png",
     opts: {
       games: ["Sakura"],
     }
   },
   {
     name: "Ryoko Misumi",
-    img: "Ryoko.png",
+    img: "ryoko.png",
     opts: {
       games: ["Sakura"],
     }
   },
   {
     name: "Hiro Yuma",
-    img: "Hiro.png",
+    img: "hiro.png",
     opts: {
       games: ["Sakura"],
     }
@@ -169,35 +169,35 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yoshino Miyakura",
-    img: "Yoshino.png",
+    img: "yoshino.png",
     opts: {
       games: ["harame"],
     }
   },
   {
     name: "Maki Momose",
-    img: "Makiharame.png",
+    img: "makiharame.png",
     opts: {
       games: ["harame"],
     }
   },
   {
     name: "Rin Nanaura",
-    img: "Rin.png",
+    img: "rin.png",
     opts: {
       games: ["harame"],
     }
   },
   {
     name: "Honoka Onda",
-    img: "Honoka.png",
+    img: "honoka.png",
     opts: {
       games: ["harame"],
     }
   },
   {
     name: "Yumi Shiina",
-    img: "Yumi.png",
+    img: "yumi.png",
     opts: {
       games: ["harame"],
     }
@@ -220,28 +220,28 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nana Kaji",
-    img: "Nana.png",
+    img: "nana.png",
     opts: {
       games: ["togime"],
     }
   },
   {
     name: "Satsuki Orikura",
-    img: "Satsuki.png",
+    img: "satsuki.png",
     opts: {
       games: ["togime"],
     }
   },
   {
     name: "Ruka",
-    img: "Ruka.png",
+    img: "ruka.png",
     opts: {
       games: ["togime"],
     }
   },
   {
     name: "Risa Suou",
-    img: "Risa.png",
+    img: "risa.png",
     opts: {
       games: ["togime"],
     }
@@ -283,7 +283,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rio Yakumo",
-    img: "rioOlder.png",
+    img: "rioolder.png",
     opts: {
       games: ["chikai"],
     }
@@ -451,21 +451,21 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yuuna Hiiragi",
-    img: "Yuuna.png",
+    img: "yuuna.png",
     opts: {
       games: ["ryokan2"],
     }
   },
   {
     name: "Haruna Kasuga",
-    img: "Haruna.png",
+    img: "haruna.png",
     opts: {
       games: ["ryokan2"],
     }
   },
   {
     name: "Yotsuba Kimino",
-    img: "Yotsuba.png",
+    img: "yotsuba.png",
     opts: {
       games: ["ryokan2"],
     }
@@ -493,7 +493,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nao Saionji (Refrain)",
-    img: "naoOlder.png",
+    img: "naoolder.png",
     opts: {
       games: ["refrain"],
     }
@@ -656,7 +656,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mizuho Ubukata",
-    img: "Mizuho.png",
+    img: "mizuho.png",
     opts: {
       games: ["sasoime"],
     }
