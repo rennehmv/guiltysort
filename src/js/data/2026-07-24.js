@@ -502,70 +502,70 @@ dataSet[dataSetVersion].characterData = [
     name: "Kanon Yuusaki",
     img: "kanon.png",
     opts: {
-      games: ["Yugami"],
+      games: ["yugami"],
     }
   },
   {
     name: "Kyouko Nakanomori",
     img: "kyoukoyugami.png",
     opts: {
-      games: ["Yugami"],
+      games: ["yugami"],
     }
   },
   {
     name: "Nami Minato",
     img: "nami.png",
     opts: {
-      games: ["Yugami"],
+      games: ["yugami"],
     }
   },
   {
     name: "Rina Uzuki",
     img: "rina.png",
     opts: {
-      games: ["Yugami"],
+      games: ["yugami"],
     }
   },
   {
     name: "Shion Yuusaki",
     img: "shion.png",
     opts: {
-      games: ["Yugami"],
+      games: ["yugami"],
     }
   },
   {
     name: "Jun Moribe",
     img: "jun.png",
     opts: {
-      games: ["Shizuku"],
+      games: ["shizuku"],
     }
   },
   {
     name: "Miho Fujigasaki",
     img: "miho.png",
     opts: {
-      games: ["Shizuku"],
+      games: ["shizuku"],
     }
   },
   {
     name: "Nadia Mizunashi",
     img: "nadia.png",
     opts: {
-      games: ["Shizuku"],
+      games: ["shizuku"],
     }
   },
   {
     name: "Nonoka Kurusu",
     img: "nonoka.png",
     opts: {
-      games: ["Shizuku"],
+      games: ["shizuku"],
     }
   },
   {
     name: "Saki Otowa",
     img: "saki.png",
     opts: {
-      games: ["Shizuku"],
+      games: ["shizuku"],
     }
   },
   
