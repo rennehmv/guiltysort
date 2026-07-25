@@ -658,7 +658,7 @@ function clearProgress() {
 function generateImage() {
   const timeFinished = timestamp + timeTaken;
   const tzoffset = (new Date()).getTimezoneOffset() * 60000;
-  const filename = 'sort-' + (new Date(timeFinished - tzoffset)).toISOString().slice(0, -5).replace('T', '(') + ').jpg';
+  const filename = 'sort-' + (new Date(timeFinished - tzoffset)).toISOString().slice(0, -5).replace('T', '(') + ').png';
 
   html2canvas(document.querySelector('.results'), {
     backgroundColor: getComputedStyle(document.body).backgroundColor,
