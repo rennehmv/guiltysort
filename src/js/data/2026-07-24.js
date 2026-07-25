@@ -1188,7 +1188,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sakaki Kaori",
-    img: "sakaki.png",
+    img: "kaori.png",
     opts: {
       games: ["ransem"],
     }
